@@ -1,0 +1,13 @@
+header {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #000066;
+    color: #fff;
+    z-index: 1;
+}
+
+h1 {
+    font-size: 14px;
+}
